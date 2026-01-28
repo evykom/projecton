@@ -1,7 +1,7 @@
 ## Setup
 
 ```bash
-git clone <this-repo-url>
+git clone https://github.com/evykom/projecton.git
 cd projecton
 ```
 
