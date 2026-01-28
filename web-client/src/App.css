@@ -1,0 +1,9 @@
+.container { padding: 20px; }
+form { margin-bottom: 20px; }
+form > div { margin-bottom: 10px; }
+input, textarea { width: 100%; }
+.article-card { margin-bottom: 10px; }
+.article-header { display: flex; justify-content: space-between; }
+.article-header h3 { margin: 0; }
+.article-header button { width: 30px; height: 30px;color: white;background-color: red; }
+.article-card p { white-space: pre-wrap; }
