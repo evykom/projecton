@@ -9,4 +9,4 @@ app.use(cors())
 app.use(express.json())
 app.use('/articles', require('./routes/article'))
 
-app.listen(process.env.PORT || 30000)
+app.listen(process.env.PORT)
