@@ -1,3 +1,7 @@
 # Ignore node_modules for subprojects
 /web-client/node_modules/
 /web-server/node_modules/
+/mobile-client/node_modules/
+/mobile-client/ARCHITECTURE.md/
+/foo.js
+
